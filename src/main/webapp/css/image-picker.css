@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* thumbnails */
+ul.thumbnails.image_picker_selector{overflow:auto;list-style-image:none;list-style-position:outside;list-style-type:none;padding:0px;margin:0px;}
+ul.thumbnails.image_picker_selector li{margin:0px 12px 12px 0px; float:left;}
+ul.thumbnails.image_picker_selector li .thumbnail{padding:6px;border:1px solid #dddddd;}
+ul.thumbnails.image_picker_selector li .thumbnail.selected{background:#0088cc;}
+
+.image_picker_image{
+	width: auto\9;
+	height: 200;
+	max-width: 100%;
+	vertical-align: middle;
+	border: 0;
+	-ms-interpolation-mode: bicubic;
+}
