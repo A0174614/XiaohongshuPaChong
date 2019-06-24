@@ -21,7 +21,7 @@
 		<input type="button" style="height:30px;width:100px" onclick="ok()" value="确定" />
 	</p>
 	
-	<iframe class="contentFrame" width="100%" height="100%" src="${basePath}image_picker.jsp" frameborder="0" scrolling="no"></iframe>
+	<iframe class="contentFrame" width="110%" height="100%" src="${basePath}image_picker.jsp" frameborder="0" scrolling="auto"></iframe>
 </div>
 
 <script type="text/javascript">
